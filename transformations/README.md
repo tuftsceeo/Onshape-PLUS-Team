@@ -1,5 +1,5 @@
 # Python X Onshape X Spike
-original repo with commit log here: https://github.com/imnotartsy/CEEO2020/tree/master/transformations
+Original repo with commit log here: https://github.com/imnotartsy/CEEO2020/tree/master/transformations (This repo might also be more updated :'))
 
 These scripts connect to an assembly in Onshape.
 ## Projects
@@ -59,3 +59,4 @@ The files should have internal documentation about what all of their functions d
 - ```onshape_client.oas.exceptions.ApiException: (401) Reason: Unauthorized```
 --> api-key is missing
 - if there are errors with missing onshape when running the code, install onshape-client with ```pip3 install onshape-client```
+- Any questions? Shoot me an email tpatro01@tufts.edu
