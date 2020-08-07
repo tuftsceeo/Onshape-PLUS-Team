@@ -17,7 +17,7 @@ DEMO: https://youtu.be/vS1c-fPyupQ?t=5
 - ```reverse_color_demo.py``` (often called the "Two motor demo")- This program connects to the spike prime, reads the position of two motors in an assembly in Onshape, and then sends commands to the Spike to update their positions.
 DEMO: [WIP]
 
-# Getting Started
+# Getting Started/File System
 ## Before Running 
 - To connect to the Onshape API, an api key and secret .
   - This is done here: https://dev-portal.onshape.com > API Keys
@@ -27,7 +27,7 @@ DEMO: [WIP]
   - These can be found in your Onshape document url.
   - Depending on your chosen method of running this program, you will want to keep the did, wid, and eid handy.
 
-## To Run transforms.py
+## To Run ```transforms.py```
 There are two ways of running this script.
 1. Using the format:
 ``` python3 transforms.py -d your-did-here -w your-wid-here -e your-eid-here```
