@@ -40,6 +40,18 @@ Note: Currently the only way to use the non default cad.onshape.com workspace is
 
 Note: The current configuration assumes the user has the port, that can be found with ```cd /dev``` and the port that looks like "tty.LEGO-SerialPortP" 
 
+## To Run color_demo.py
+- Using ```python3 color_demo.py``` with your workspace, did, wid, and eid in the ```document-preferences``` file.
+- You will also have to update the Serial port on line 19.
+
+Note: The current configuration assumes the user has the port, that can be found with ```cd /dev``` and the port that looks like "tty.LEGO-SerialPortP" 
+
+## To Run reverse_color_demo.py/"two motor demo"
+- Using ```python3 reverse_color_demo.py``` with your workspace, did, wid, and eid in the ```document-preferences``` file.
+- You will also have to update the Serial port on line 19.
+
+Note: The current configuration assumes the user has the port, that can be found with ```cd /dev``` and the port that looks like "tty.LEGO-SerialPortP" 
+
 ## Utils (non runnable helper functions that are used across files)
 ```transform_utils.py``` - Implementation of transformation matrix operations + matrix math! (More docuementation here: https://docs.google.com/spreadsheets/d/1MutKDT-GvC54-6fMNVkxyB-l_KxuO7ptp8d1v82nCl4/edit#gid=0)
 
