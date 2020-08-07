@@ -35,18 +35,18 @@ There are two ways of running this script.
 
 Note: Currently the only way to use the non default cad.onshape.com workspace is to use document preferences
 
-## To Run dice_demo.py
+## To Run ```dice_demo.py```
 - Using ```python3 dice_demo.py -p your-spike-prime-port``` with your workspace, did, wid, and eid in the ```document-preferences``` file.
 
 Note: The current configuration assumes the user has the port, that can be found with ```cd /dev``` and the port that looks like "tty.LEGO-SerialPortP" 
 
-## To Run color_demo.py
+## To Run ```color_demo.py```
 - Using ```python3 color_demo.py``` with your workspace, did, wid, and eid in the ```document-preferences``` file.
 - You will also have to update the Serial port on line 19.
 
 Note: The current configuration assumes the user has the port, that can be found with ```cd /dev``` and the port that looks like "tty.LEGO-SerialPortP" 
 
-## To Run reverse_color_demo.py/"two motor demo"
+## To Run ```reverse_color_demo.py```/"two motor demo"
 - Using ```python3 reverse_color_demo.py``` with your workspace, did, wid, and eid in the ```document-preferences``` file.
 - You will also have to update the Serial port on line 19.
 
