@@ -1,4 +1,6 @@
 # Python X Onshape X Spike
+original repo with commit log here: https://github.com/imnotartsy/CEEO2020/tree/master/transformations
+
 These scripts connect to an assembly in Onshape.
 ## Projects
 - ```transforms.py``` - It returns the parts, their ids/paths, and positions in an Onshape Assembly, then allows the user to apply transformations upon being prompted (will be prompted for a transformation (tx, ty, tz, rx, ry, rz, w), if the transform is relative, and then prompted for parts.
