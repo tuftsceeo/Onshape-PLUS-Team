@@ -3,6 +3,7 @@ These are all the programs the Onshape+ Team has written.
 Here is a document that contains all of our demo videos and the links to the main Onshape Documents used in the demos.
 https://docs.google.com/document/d/1c5frdl-07MMafo13asuVFhRG3jVOqrifIQHshgbYYU8/edit?usp=sharing
 
+## Work by Owen Gervais
 ### Color_Sensor_Onshape
 Contains both the **Direct Connection** and **Labview Connection** code and setup for Onshape API and EV3 Color Sensor communication
 
@@ -15,3 +16,8 @@ Contains the in-progress translation of the OnshapeAPI client from Python3.5 to 
 ### ros2_LEGO
 Contains setup instructions and a sample robot sdf to run the ROS2 control demo. 
 
+## Work by Teo Patrosio
+#### /tranformations
+All documention regarding the Onshape occurrence transforms endpoint and all the code for the "Virtual Robot Twin"
+
+Further detailed documentation + how to run the demos is inside the folder! 
