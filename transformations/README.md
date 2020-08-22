@@ -15,7 +15,7 @@ DEMO: https://youtu.be/-olHUShWuLk?t=129
 DEMO: https://youtu.be/vS1c-fPyupQ?t=5
 
 - ```reverse_color_demo.py``` (often called the "Two motor demo")- This program connects to the spike prime, reads the position of two motors in an assembly in Onshape, and then sends commands to the Spike to update their positions.
-DEMO: [WIP]
+DEMO: https://youtu.be/d_Swo2u1O3U
 
 # Getting Started/File System
 ## Before Running 
